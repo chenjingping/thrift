@@ -164,5 +164,8 @@ This will run a set of tests that use different language clients and
 servers.
 
 thrift-0.10.0.exe --gen csharp D:/gowork/src/amtiot/def/amtiot.thrift
+
 thrift-0.10.0.exe --gen go  D:/gowork/src/amtiot/def/amtiot.thrift
+
 thrift-0.10.0.exe --gen php  D:/gowork/src/amtiot/def/amtiot.thrift
+
